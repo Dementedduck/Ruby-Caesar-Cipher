@@ -1,4 +1,4 @@
 # Ruby-Caesar-Cipher
-A ceasar cipher encoder written in ruby
+A caesar cipher encoder written in ruby
 
 Part of the Odin Project.
